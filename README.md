@@ -1,18 +1,31 @@
-# Profile Repository - Git Rebase & Conflict Lab
+# Hi there, I'm Dennis Karaya 👋
 
-## Objective
-Practice rebase workflow and merge conflict resolution on a profile README.
+## About Me
 
-## Scenario
+I'm a **Cloud Computing & Information Security** student at **Machakos University**.  
+I'm passionate about networking, cloud technologies (in their entirety), and cybersecurity.
 
-- Feature branch: API project documentation
-- Conflict: Both branches modified same file
+-  Currently learning: Kubernetes, cloud native tools, and security best practices  
+  Certifications:  
+- Kubernetes & Cloud Native Technologies — The Linux Foundation
+- Oracle Cloud Infrastructure Foundations Associate  
+   Ask me about: Cloud computing, networking, or cybersecurity  
+   How to reach me: karayadennis04@gmail.com  
 
-### Setup
+## My Interests
 
-git clone https://github.com/k-a-r-a-y-a/k-a-r-a-y-a.git
+-  Cloud Computing (AWS, OCI, Kubernetes)  
+-  Cybersecurity & InfoSec  
+-  Networking  
+-  Cloud Native Technologies  
 
-Key Learnings
-Rebasing creates linear history
-Resolve conflicts by keeping both changes
+## My Certifications
 
+| Certification | Issuer |
+|---------------|--------|
+| Kubernetes & Cloud Native Technologies | The Linux Foundation |
+| Oracle Cloud Foundations Associate | Oracle |
+
+---
+
+*Let's connect and build something secure and scalable in the cloud!*
